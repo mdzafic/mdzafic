@@ -1,16 +1,32 @@
-## Hi there 👋
+## About Me
 
-<!--
-**mdzafic/mdzafic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Final-year Computer Science and Informatics student at the Faculty of Electrical Engineering, University of Sarajevo.
+- 💡 Interested in software development, machine learning, and embedded systems
+- 🧠 Experience working with full-stack development, from backend logic to UI and databases
+- 🧩 Also explored Augmented Reality (AR) applications using Blender and Unity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+C • C++ • C# • Java • Python • JavaScript • Julia
+
+### 🌐 Web Development
+HTML5 • CSS3 • Node.js • Express • ASP.NET
+
+### 🗄️ Databases & Tools
+MySQL • LaTeX • Git
+
+### 🤖 AI & Data Science
+NumPy • Matplotlib • TensorFlow • Julia
+
+### 🎨 3D & AR Development
+Blender • Augmented Reality applications
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [mdzafic1@etf.unsa.ba](mailto:mdzafic1@etf.unsa.ba)
+- 💻 GitHub: https://github.com/mdzafic
