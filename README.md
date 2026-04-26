@@ -45,4 +45,3 @@
 ## Connect with Me
 
 - 📧 Email: [mdzafic1@etf.unsa.ba](mailto:mdzafic1@etf.unsa.ba)
-- 💻 GitHub: https://github.com/mdzafic
